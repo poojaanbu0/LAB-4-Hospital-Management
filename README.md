@@ -7,27 +7,31 @@ This application provides a way to record this information and to access these i
 
 ### UML DIAGRAMS:
 ### Usecase Diagram:
-![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/cfd26258-b0ef-42ee-b192-da5039f2dd17)
-
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/1f479026-197a-437c-b01e-9c775abae431)
 
 
 ### Activity Diagram:
-![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/0742ea66-f629-4ad7-934f-d33f2cd83ccd)
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/af36dfcd-aa34-45ab-ac6b-28f954aa9deb)
+
+
 
 ### Squence Diagram:
-![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/b179c9d8-bd6d-4b9c-a6d4-43c3cc65a4fd)
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/85fef198-08df-4923-94b2-ebab358c5048)
+
 
 
 ### Package Diagram:
-![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/05b99314-9c0b-4493-bb89-3563f0eeff81)
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/c53d561f-fc29-4a50-82a9-81627f205ef4)
+
 
 
 ### Communication Diagram:
-![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/1f434add-80ca-4810-81d0-672ef7d75158)
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/ee609a7d-bed6-4943-9642-cc5169db4175)
 
 
 ### Class Diagram:
-![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/a4123e1a-edad-46eb-9e59-4e4b9f79f381)
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/524e16a7-a32e-4381-8e95-c0f88c28e82d)
+
 
 
 ### RESULT:

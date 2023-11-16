@@ -7,7 +7,8 @@ This application provides a way to record this information and to access these i
 
 ### UML DIAGRAMS:
 ### Usecase Diagram:
-![Uploading image.png…]()
+![image](https://github.com/poojaanbu0/LAB-4-Hospital-Management/assets/119390329/cfd26258-b0ef-42ee-b192-da5039f2dd17)
+
 
 
 ### Activity Diagram:
